@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Kanga Gardening">
+  <path d="M24 3.5C35 13 39 27 24 44.5 9 27 13 13 24 3.5Z" fill="#228734"/>
+  <path d="M24 9C20 18 20.5 31 24 41" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" opacity=".92"/>
+  <path d="M24 18c4-3 8.5-3.5 12-2M24 27c4-3 8.5-3.5 12-2" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity=".55"/>
+  <path d="M24 41.5v4" stroke="#e0a800" stroke-width="3" stroke-linecap="round"/>
+</svg>
