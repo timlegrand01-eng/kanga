@@ -13,4 +13,5 @@
 /how-much-does-lawn-mowing-cost  /acreage-mowing                  301
 /home-1                          /                                301
 /new-folder                      /#services                       301
+/servicemapemail                 /kanga-service-map.pdf           301
 # www -> apex handled by a Cloudflare Redirect Rule, not here.
