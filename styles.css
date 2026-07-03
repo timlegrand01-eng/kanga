@@ -139,6 +139,19 @@ a.card:hover{border-color:var(--green);transform:translateY(-3px);box-shadow:var
 .repframe img{border-radius:8px;border:1px solid var(--border)}
 .repframe figcaption{font-size:.83rem;color:var(--grey);margin-top:10px;text-align:center}
 
+/* insights articles */
+.article{max-width:72ch;margin:0 auto}
+.article h2{font-size:clamp(1.35rem,2.4vw,1.7rem);margin:2.1rem 0 .7rem}
+.article p{color:var(--ink);font-size:1.05rem;margin-bottom:1rem}
+.article ul{margin:0 0 1.1rem 1.2rem;color:var(--ink);font-size:1.02rem}
+.article li{margin-bottom:.5rem}
+.article a{color:var(--green-dark);font-weight:600;text-decoration:underline;text-underline-offset:2px}
+.article .qa{background:var(--green-pale);border:1px solid var(--green-pale-2);border-radius:12px;padding:20px 22px;margin:1.2rem 0 1.6rem}
+.article .qa p{margin:0;font-size:1.06rem}
+.article .src{font-size:.86rem;color:var(--grey);border-left:3px solid var(--border);padding-left:12px;margin:1.4rem 0}
+.postmeta{color:var(--grey);font-size:.9rem;margin-top:.6rem}
+
+
 /* steps */
 .steps{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;margin-top:36px}
 .step .n{font-family:var(--f-head);font-weight:900;color:var(--gold-deep);font-size:1.45rem}
