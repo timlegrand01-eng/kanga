@@ -1,71 +1,27 @@
-<!DOCTYPE html>
-<html lang="en-AU">
-<head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Privacy Policy - Kanga Gardening</title>
-<meta name="description" content="How Kanga Gardening collects, uses and protects the personal information you share through this website. Plain-English privacy policy.">
-<link rel="canonical" href="https://kangagardening.com.au/privacy">
-<meta property="og:title" content="Privacy Policy - Kanga Gardening"><meta property="og:description" content="How Kanga Gardening handles the personal information you share through this website."><meta property="og:type" content="website"><meta property="og:url" content="https://kangagardening.com.au/privacy">
-<meta name="theme-color" content="#0f3d1c">
-<meta property="og:image" content="https://kangagardening.com.au/assets/og-image.png">
-<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
-<meta name="twitter:card" content="summary_large_image">
-<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="icon" href="/assets/logo-glyph.svg" type="image/svg+xml">
-<link rel="preload" href="/assets/fonts/inter-var.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="/assets/fonts/archivo-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/styles.css">
-<script type="application/ld+json">
-{"@context":"https://schema.org","@graph":[{"@type":["LocalBusiness","LandscapingBusiness"],"@id":"https://kangagardening.com.au/#business","name":"Kanga Gardening","url":"https://kangagardening.com.au/","telephone":"+61406937593","email":"hello@kangagardening.com.au","address":{"@type":"PostalAddress","addressLocality":"Edithvale","addressRegion":"VIC","postalCode":"3196","addressCountry":"AU"},"areaServed":["South-East Melbourne","Mornington Peninsula"],"sameAs":["https://www.instagram.com/kangagardening","https://www.facebook.com/kangagardening","https://www.tiktok.com/@kangagardening","https://www.pinterest.com/kangagardening","https://twitter.com/kangagardening","https://www.google.com/maps?cid=2011791271587656297"],"knowsAbout":["Body corporate and owners corporation garden maintenance","Strata gardening","Commercial grounds maintenance","Factory and industrial grounds maintenance","School and institutional grounds maintenance","Acreage and large-block ride-on mowing","Indoor and office plant maintenance","Holiday home and weekender garden care","Hedge trimming and pruning","Green waste removal"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Grounds maintenance services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Body corporate & strata garden maintenance","url":"https://kangagardening.com.au/body-corporate-gardening"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Commercial grounds maintenance","url":"https://kangagardening.com.au/commercial-grounds-maintenance"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Factory & industrial grounds","url":"https://kangagardening.com.au/factory-industrial-grounds"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"School & institutional grounds maintenance","url":"https://kangagardening.com.au/school-grounds-maintenance"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Acreage & large block mowing","url":"https://kangagardening.com.au/acreage-mowing"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Indoor & office plant maintenance","url":"https://kangagardening.com.au/indoor-plant-maintenance"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Holiday home & weekender garden maintenance","url":"https://kangagardening.com.au/holiday-home-garden-maintenance"}}]},"image":"https://kangagardening.com.au/assets/og-image.png","foundingDate":"2020","founder":{"@type":"Person","name":"Tim Le Grand"}},{"@type":"WebPage","name":"Privacy Policy - Kanga Gardening","url":"https://kangagardening.com.au/privacy","@id":"https://kangagardening.com.au/privacy#webpage","isPartOf":{"@id":"https://kangagardening.com.au/#website"},"about":{"@id":"https://kangagardening.com.au/#business"}},{"@type":"WebSite","@id":"https://kangagardening.com.au/#website","url":"https://kangagardening.com.au/","name":"Kanga Gardening","publisher":{"@id":"https://kangagardening.com.au/#business"}}]}
-</script>
-<noscript><style>.rev{opacity:1;transform:none}</style></noscript>
-</head>
-<body>
-<header class="site"><div class="bar wrap">
-  <a class="logo" href="/"><img class="logo-mark" src="/assets/logo-glyph.svg" alt="" width="34" height="34"><span class="logo-txt"><b>Kanga</b> Gardening</span></a>
-  <nav class="menu" id="menu" aria-label="Primary">
-    <a href="/#services">Services</a><a href="/the-kanga-standard">The Kanga Standard</a><a href="/about">About</a><a href="/reviews">Reviews</a><a href="/#areas">Areas</a>
-    <a class="phone" href="tel:+61406937593">0406 937 593</a>
-    <a class="btn btn-primary" href="/contact">Request a Quote</a>
-  </nav>
-  <button class="burger" id="burger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
-</div></header>
-<nav class="crumb" aria-label="Breadcrumb"><div class="wrap"><a href="/">Home</a> &nbsp;›&nbsp; <b>Privacy Policy</b></div></nav>
-<main id="main">
-<section style="padding-bottom:26px"><div class="wrap">
-  <div class="article rev">
-    <span class="eyebrow">Kanga Gardening</span>
-    <h1 style="font-size:clamp(1.7rem,3.4vw,2.4rem);margin:.5rem 0 .3rem">Privacy policy</h1>
-    <p style="color:var(--grey);font-size:.92rem;margin-bottom:14px">Last updated 3 July 2026</p>
-    <p>Kanga Gardening (ABN 12 317 309 473), based in Edithvale, Victoria, respects your privacy. This page explains, in plain English, what personal information we collect through this website and how we handle it.</p>
-    <h2>What we collect</h2>
-    <p>When you submit our quote or contact forms, we collect the details you provide: your name, phone number, email address, suburb, and anything you tell us about your property or the work required. If you email or call us, we keep that correspondence as part of normal business records. We don't collect payment details through this website.</p>
-    <h2>How we use it</h2>
-    <p>Your details are used only to respond to your enquiry, prepare quotes, schedule and deliver services, and keep the business records we're required to hold (including for tax purposes). We don't sell your information, share it with third parties for marketing, or add you to mailing lists.</p>
-    <h2>Who processes it</h2>
-    <p>Form submissions are delivered to us by Web3Forms (a form-processing service) and arrive in our email, which is hosted by Google Workspace. This website is hosted on Cloudflare Pages. These providers process data on our behalf under their own privacy and security safeguards.</p>
-    <h2>Cookies and analytics</h2>
-    <p>This site doesn't use advertising or tracking cookies. If we measure site traffic, we use privacy-friendly, cookieless analytics that don't identify individual visitors.</p>
-    <h2>How long we keep it</h2>
-    <p>Enquiry and client records are kept for as long as needed to provide services and meet legal record-keeping obligations, and are then deleted.</p>
-    <h2>Your choices</h2>
-    <p>You can ask at any time what information we hold about you, ask us to correct it, or ask us to delete it (where we're not legally required to retain it). Email <a href="mailto:hello@kangagardening.com.au">hello@kangagardening.com.au</a> or call <a href="tel:+61406937593">0406 937 593</a>.</p>
-    <h2>Our approach</h2>
-    <p>As a small business, Kanga Gardening may be exempt from parts of the Privacy Act 1988 (Cth), but we choose to handle personal information in line with the Australian Privacy Principles regardless.</p>
-  </div>
-</div></section>
-</main>
-<footer class="site"><div class="wrap"><div class="fgrid">
-    <div><div class="flogo"><img class="logo-mark" src="/assets/logo-glyph.svg" alt="" width="30" height="30"><span><b>Kanga</b> Gardening</span></div>
-      <p class="desc">Reliable, fixed-fee grounds maintenance for body corporate, strata, commercial and large-block properties across south-east Melbourne and the Mornington Peninsula. Same operator every visit.</p></div>
-    <div><h4>Services</h4><a href="/body-corporate-gardening">Body Corporate &amp; Strata</a><a href="/commercial-grounds-maintenance">Commercial Grounds</a><a href="/factory-industrial-grounds">Factory &amp; Industrial</a><a href="/school-grounds-maintenance">Schools &amp; Institutions</a><a href="/acreage-mowing">Acreage &amp; Large Blocks</a><a href="/indoor-plant-maintenance">Indoor Plant Maintenance</a><a href="/holiday-home-garden-maintenance">Holiday Homes &amp; Weekenders</a></div>
-    <div><h4>Company</h4><a href="/the-kanga-standard">The Kanga Standard</a><a href="/about">About</a><a href="/reviews">Reviews</a><a href="/insights">Insights</a><a href="/contact">Contact &amp; quotes</a><a href="/#areas">Areas we serve</a><a href="/privacy">Privacy Policy</a></div>
-    <div><h4>Contact</h4><a href="tel:+61406937593">☎ 0406 937 593</a><a href="mailto:hello@kangagardening.com.au">✉ hello@kangagardening.com.au</a><p style="margin-top:8px">Mon-Fri 8:00-17:00<br>Sat 9:00-13:00</p><p style="margin-top:8px">ABN 12 317 309 473 · Est. 2020</p></div>
-  </div>
-  <div class="ftrust">$20M Public &amp; Products Liability (Certificate of Currency on request) · Fully insured · Police-checked · WWCC · White Card</div>
-  <div class="fbot"><span>© 2026 Kanga Gardening. All rights reserved.</span><span>South-East Melbourne · Mornington Peninsula</span></div>
-</div></footer>
-<div class="mobilebar"><a class="call" href="tel:+61406937593">Call</a><a class="quote" href="/contact">Get a Quote</a></div>
-<script src="/assets/app.js"></script>
-<script type="speculationrules">{"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/*.pdf"}}]},"eagerness":"moderate"}]}</script>
-</body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://kangagardening.com.au/</loc><lastmod>2026-07-03</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://kangagardening.com.au/the-kanga-standard</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://kangagardening.com.au/body-corporate-gardening</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://kangagardening.com.au/commercial-grounds-maintenance</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://kangagardening.com.au/factory-industrial-grounds</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://kangagardening.com.au/acreage-mowing</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://kangagardening.com.au/indoor-plant-maintenance</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://kangagardening.com.au/holiday-home-garden-maintenance</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://kangagardening.com.au/school-grounds-maintenance</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://kangagardening.com.au/insights</loc><lastmod>2026-07-03</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://kangagardening.com.au/insights/body-corporate-gardening-cost-melbourne</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://kangagardening.com.au/body-corporate-gardening/bayside-kingston</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/body-corporate-gardening/frankston</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/body-corporate-gardening/casey</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/commercial-grounds-maintenance/south-east-melbourne</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/commercial-grounds-maintenance/cranbourne-pakenham</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/factory-industrial-grounds/dandenong-south</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/acreage-mowing/mornington-peninsula</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/acreage-mowing/casey-cardinia</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/indoor-plant-maintenance/south-east-melbourne</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://kangagardening.com.au/about</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://kangagardening.com.au/reviews</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://kangagardening.com.au/contact</loc><lastmod>2026-07-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://kangagardening.com.au/privacy</loc><lastmod>2026-07-03</lastmod></url>
+</urlset>
