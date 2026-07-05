@@ -14,4 +14,13 @@
 /home-1                          /                                301
 /new-folder                      /#services                       301
 /servicemapemail                 /kanga-service-map.pdf           301
+# Stray flat URLs from the 03/07 upload scramble -> canonical nested pages (files also deleted from repo)
+/bayside-kingston                /body-corporate-gardening/bayside-kingston           301
+/casey                           /body-corporate-gardening/casey                      301
+/frankston                       /body-corporate-gardening/frankston                  301
+/casey-cardinia                  /acreage-mowing/casey-cardinia                       301
+/mornington-peninsula            /acreage-mowing/mornington-peninsula                 301
+/cranbourne-pakenham             /commercial-grounds-maintenance/cranbourne-pakenham  301
+/dandenong-south                 /factory-industrial-grounds/dandenong-south          301
+/south-east-melbourne            /commercial-grounds-maintenance/south-east-melbourne 301
 # www -> apex handled by a Cloudflare Redirect Rule, not here.
