@@ -297,3 +297,12 @@ footer .desc{max-width:34ch;line-height:1.7}
 
 /* readable gold eyebrow on dark sections */
 .quote .eyebrow{color:var(--gold-soft)}
+
+/* --- real photos batch (ph1) --- */
+.shot img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.shot.pos-b img{object-position:center bottom}
+.gcell img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.brandmark{position:absolute;right:14px;bottom:14px;background:rgba(255,255,255,.95);border-radius:9px;padding:6px;display:flex;box-shadow:0 4px 12px rgba(0,0,0,.16)}
+.brandmark img{display:block}
+.brandmark.bm-s{right:9px;bottom:9px;padding:4px;border-radius:7px}
+.gcell .gcap{position:absolute;left:0;right:0;bottom:0;padding:26px 12px 9px;background:linear-gradient(transparent,rgba(10,26,14,.62));color:#fff;font-family:var(--f-head);font-weight:600;font-size:.78rem;line-height:1.25}
