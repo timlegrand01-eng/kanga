@@ -299,10 +299,45 @@ footer .desc{max-width:34ch;line-height:1.7}
 .quote .eyebrow{color:var(--gold-soft)}
 
 /* --- real photos batch (ph1) --- */
-.shot img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-.shot.pos-b img{object-position:center bottom}
-.gcell img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.shot > img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.shot.pos-b > img{object-position:center bottom}
+.gcell > img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .brandmark{position:absolute;right:14px;bottom:14px;background:rgba(255,255,255,.95);border-radius:9px;padding:6px;display:flex;box-shadow:0 4px 12px rgba(0,0,0,.16)}
 .brandmark img{display:block}
 .brandmark.bm-s{right:9px;bottom:9px;padding:4px;border-radius:7px}
 .gcell .gcap{position:absolute;left:0;right:0;bottom:0;padding:26px 12px 9px;background:linear-gradient(transparent,rgba(10,26,14,.62));color:#fff;font-family:var(--f-head);font-weight:600;font-size:.78rem;line-height:1.25}
+
+/* --- ph2: watermark 3x @50%, pillar side images --- */
+.brandmark{opacity:.5;padding:18px;border-radius:22px;right:16px;bottom:16px}
+.brandmark img{width:60px;height:60px}
+.brandmark.bm-s{padding:12px;border-radius:16px;right:12px;bottom:12px}
+.brandmark.bm-s img{width:45px;height:45px}
+.withside{display:grid;grid-template-columns:1.15fr .85fr;gap:34px;align-items:center}
+.withside .sec-head{margin-bottom:0}
+.sidecard{position:relative;margin:0;border-radius:14px;overflow:hidden;box-shadow:var(--shadow-lg);max-width:360px;justify-self:end}
+.sidecard img{display:block;width:100%;height:auto}
+@media (max-width:900px){.withside{grid-template-columns:1fr;gap:22px}.sidecard{justify-self:start;max-width:420px}}
+
+/* --- ph3: work strips on every pillar --- */
+.gal.cols-3{grid-template-columns:repeat(3,1fr)}
+.gal.cols-2{grid-template-columns:repeat(2,1fr)}
+@media (max-width:900px){.gal.cols-3{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:680px){.gal.cols-3,.gal.cols-2{grid-template-columns:1fr}}
+
+/* --- ph5: mobile + brand chip fixes --- */
+span.brandmark{position:absolute;right:16px;bottom:16px;background:rgba(255,255,255,.95);border-radius:22px;padding:18px;display:flex;box-shadow:0 4px 12px rgba(0,0,0,.16);opacity:.5}
+span.brandmark img{position:static;inset:auto;width:60px;height:60px;object-fit:contain;display:block}
+span.brandmark.bm-s{right:12px;bottom:12px;padding:12px;border-radius:16px}
+span.brandmark.bm-s img{width:45px;height:45px}
+@media (max-width:680px){
+  span.brandmark{padding:10px;border-radius:14px;right:10px;bottom:10px}
+  span.brandmark img{width:36px;height:36px}
+  span.brandmark.bm-s{padding:8px;border-radius:12px;right:8px;bottom:8px}
+  span.brandmark.bm-s img{width:28px;height:28px}
+}
+
+/* --- ph5b: mobile menu fix (hidden menu's bottom edge was poking into the top of the screen; also anchors the open menu under the header instead of a hardcoded 60px) --- */
+@media (max-width:900px){
+  .menu{position:absolute;inset:auto;top:100%;left:0;right:0;z-index:55}
+  .menu:not(.open){visibility:hidden}
+}
