@@ -308,7 +308,7 @@ footer .desc{max-width:34ch;line-height:1.7}
 .gcell .gcap{position:absolute;left:0;right:0;bottom:0;padding:26px 12px 9px;background:linear-gradient(transparent,rgba(10,26,14,.62));color:#fff;font-family:var(--f-head);font-weight:600;font-size:.78rem;line-height:1.25}
 
 /* --- ph2: watermark 3x @50%, pillar side images --- */
-.brandmark{opacity:.5;padding:18px;border-radius:22px;right:16px;bottom:16px}
+.brandmark{opacity:.5;padding:18px;border-radius:22px;right:16px;bottom:16px;background:none;box-shadow:none}
 .brandmark img{width:60px;height:60px}
 .brandmark.bm-s{padding:12px;border-radius:16px;right:12px;bottom:12px}
 .brandmark.bm-s img{width:45px;height:45px}
@@ -325,7 +325,7 @@ footer .desc{max-width:34ch;line-height:1.7}
 @media (max-width:680px){.gal.cols-3,.gal.cols-2{grid-template-columns:1fr}}
 
 /* --- ph5: mobile + brand chip fixes --- */
-span.brandmark{position:absolute;right:16px;bottom:16px;background:rgba(255,255,255,.95);border-radius:22px;padding:18px;display:flex;box-shadow:0 4px 12px rgba(0,0,0,.16);opacity:.5}
+span.brandmark{position:absolute;right:16px;bottom:16px;background:none;border-radius:22px;padding:18px;display:flex;box-shadow:none;opacity:.5}
 span.brandmark img{position:static;inset:auto;width:60px;height:60px;object-fit:contain;display:block}
 span.brandmark.bm-s{right:12px;bottom:12px;padding:12px;border-radius:16px}
 span.brandmark.bm-s img{width:45px;height:45px}
