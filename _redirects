@@ -24,3 +24,8 @@
 /dandenong-south                 /factory-industrial-grounds/dandenong-south          301
 /south-east-melbourne            /commercial-grounds-maintenance/south-east-melbourne 301
 # www -> apex handled by a Cloudflare Redirect Rule, not here.
+# Reserved QR paths (printed artwork encodes these; destinations changeable here) — added 19/07/2026
+/work      /the-kanga-standard 302
+/review    https://www.google.com/maps?cid=2011791271587656297 302
+/feedback  /contact 302
+/lawn      /contact 302
